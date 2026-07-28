@@ -59,6 +59,13 @@
 			"translation/farriery/russian.json"
 		]
 	},
+	"polish" : {
+		"name" : "Kuźnia",
+		"description" : "Miasto Kuźnia oparte na starym projekcie Forge. Połączone ze Skażoną Ziemią z podmodów New Terrains Pack (zobacz zakładkę ze zrzutami ekranu).",
+		"translations" : [
+			"translation/farriery/polish.json"
+		]
+	},
 	"depends" : [
 		"newtown-terrains.spoiledland"
 	],
